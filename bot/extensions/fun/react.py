@@ -1,9 +1,7 @@
-import random
 import logging
 
 from discord import Message
 
-from bot import constants
 from bot.bot import Bot
 from bot.extensions import ErrorHandledCog
 
